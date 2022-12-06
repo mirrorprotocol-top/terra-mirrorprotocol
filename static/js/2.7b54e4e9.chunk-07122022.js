@@ -1297,7 +1297,7 @@
                     classic: {
                         name: "classic",
                         chainID: "columbus-5",
-                        lcd: "https://terra-classic-lcd.publicnode.com",
+                        lcd: "https://lcd.terrarebels.net",
                         contract: "https://whitelist.mirror.finance/columbus.json",
                         mantle: "https://columbus-mantle.terra.dev/",
                         shuttle: {
