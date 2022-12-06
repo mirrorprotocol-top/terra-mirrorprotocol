@@ -1320,7 +1320,7 @@
                     testnet: {
                         name: "testnet",
                         chainID: "bombay-12",
-                        lcd: "https://bombay-lcd.terra.dev",
+                        lcd: "https://lcd.terrarebels.net/",
                         contract: "https://whitelist.mirror.finance/bombay.json",
                         mantle: "https://bombay-mantle.terra.dev/",
                         shuttle: {
@@ -1343,7 +1343,7 @@
                     moonshine: {
                         name: "moonshine",
                         chainID: "localterra",
-                        lcd: "https://moonshine-lcd.terra.dev",
+                        lcd: "https://lcd.terrarebels.net/",
                         contract: "https://whitelist.mirror.finance/moonshine.json",
                         mantle: "https://moonshine-mantle.terra.dev",
                         shuttle: {
