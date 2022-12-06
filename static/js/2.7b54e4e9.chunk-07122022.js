@@ -6143,7 +6143,7 @@
                     return null !== (e = null === t || void 0 === t ? void 0 : t.terraAddress) && void 0 !== e ? e : ""
                 },
                 fl = {
-                    baseURL: "https://assets.terra.money"
+                    baseURL: "https://assets.terrarebels.net"
                 },
                 ml = function (e) {
                     return Object(i.useQuery)(e, Object(O.a)(p.a.mark((function t() {
