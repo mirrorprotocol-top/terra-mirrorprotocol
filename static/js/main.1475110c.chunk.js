@@ -1297,7 +1297,7 @@
                     classic: {
                         name: "classic",
                         chainID: "columbus-5",
-                        lcd: "https://columbu111s-lcd.terra.dev",
+                        lcd: "https://columbus-lcd.terra.dev",
                         contract: "https://whitelist.mirror.finance/columbus.json",
                         mantle: "https://columbus-mantle.terra.dev/",
                         shuttle: {
@@ -1313,7 +1313,7 @@
                             lpToken: "terra17gjf2zehfvnyjtdgua9p9ygquk6gukxe7ucgwh"
                         },
                         fee: {
-                            gasPrice: .2,
+                            gasPrice: .15,
                             amount: 1e5
                         }
                     },
