@@ -1297,7 +1297,7 @@
                     classic: {
                         name: "classic",
                         chainID: "columbus-5",
-                        lcd: "https://lcd.terrarebels.net",
+                        lcd: "https://columbus-lcd.terra.dev",
                         contract: "https://whitelist.mirror.finance/columbus.json",
                         mantle: "https://columbus-mantle.terra.dev/",
                         shuttle: {
@@ -1320,7 +1320,7 @@
                     testnet: {
                         name: "testnet",
                         chainID: "bombay-12",
-                        lcd: "https://lcd.terrarebels.net",
+                        lcd: "https://bombay-lcd.terra.dev",
                         contract: "https://whitelist.mirror.finance/bombay.json",
                         mantle: "https://bombay-mantle.terra.dev/",
                         shuttle: {
@@ -1343,7 +1343,7 @@
                     moonshine: {
                         name: "moonshine",
                         chainID: "localterra",
-                        lcd: "https://lcd.terrarebels.net",
+                        lcd: "https://moonshine-lcd.terra.dev",
                         contract: "https://whitelist.mirror.finance/moonshine.json",
                         mantle: "https://moonshine-mantle.terra.dev",
                         shuttle: {
