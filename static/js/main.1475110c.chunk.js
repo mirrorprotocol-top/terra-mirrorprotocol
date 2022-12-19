@@ -881,8 +881,8 @@
                         return m
                     }));
                 var r = "https://terrascope.info",
-                a = "https://docs.mirror.finance",
-                c = "https://whitelist.mirror.finance/images",
+                a = "https://docs.mirrorprotocol.top",
+                c = "whitelist/images",
                 o = "WasmContractsContractAddressStore",
                 i = 1e6,
                 l = {
@@ -1297,8 +1297,8 @@
                     classic: {
                         name: "classic",
                         chainID: "columbus-5",
-                        lcd: "https://lcd.terrarebels.net",
-                        contract: "https://whitelist.mirror.finance/columbus.json",
+                        lcd: "https://columbus-lcd.terra.dev",
+                        contract: "whitelist/columbus.json",
                         mantle: "https://columbus-mantle.terra.dev/",
                         shuttle: {
                             ethereum: "terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
@@ -1321,7 +1321,7 @@
                         name: "testnet",
                         chainID: "bombay-12",
                         lcd: "https://bombay-lcd.terra.dev",
-                        contract: "https://whitelist.mirror.finance/bombay.json",
+                        contract: "whitelist/bombay.json",
                         mantle: "https://bombay-mantle.terra.dev/",
                         shuttle: {
                             ethereum: "terra10a29fyas9768pw8mewdrar3kzr07jz8f3n73t3",
@@ -1344,7 +1344,7 @@
                         name: "moonshine",
                         chainID: "localterra",
                         lcd: "https://moonshine-lcd.terra.dev",
-                        contract: "https://whitelist.mirror.finance/moonshine.json",
+                        contract: "whitelist/moonshine.json",
                         mantle: "https://moonshine-mantle.terra.dev",
                         shuttle: {
                             ethereum: "",
