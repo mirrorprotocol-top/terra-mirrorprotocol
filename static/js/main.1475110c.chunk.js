@@ -1313,7 +1313,7 @@
                             lpToken: "terra17gjf2zehfvnyjtdgua9p9ygquk6gukxe7ucgwh"
                         },
                         fee: {
-                            gasPrice: .25,
+                            gasPrice: .5,
                             amount: 1e5
                         }
                     },
