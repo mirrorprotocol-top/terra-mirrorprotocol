@@ -1299,7 +1299,7 @@
                         chainID: "columbus-5",
                         lcd: "https://columbus-lcd.terra.dev",
                         contract: "whitelist/columbus.json",
-                        mantle: "https://columbus-mantle.terra.dev/",
+                        mantle: "mirrorprotocol.top",
                         shuttle: {
                             ethereum: "terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
                             bsc: "terra1g6llg3zed35nd3mh9zx6n64tfw3z67w2c48tn2"
