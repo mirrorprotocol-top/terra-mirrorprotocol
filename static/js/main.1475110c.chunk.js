@@ -1,4 +1,4 @@
-f(this.webpackJsonpmirror = this.webpackJsonpmirror || []).push([[0], {
+(this.webpackJsonpmirror = this.webpackJsonpmirror || []).push([[0], {
             100: function (e, t, n) {
                 e.exports = {
                     component: "Broadcasting_component__fvYfv",
