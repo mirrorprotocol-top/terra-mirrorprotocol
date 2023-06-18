@@ -1295,7 +1295,7 @@
                         chainID: "columbus-5",
                         lcd: "https://lcd.terrarebels.net/",
                         contract: "whitelist/columbus.json",
-                        hive: "https://columbus-hive.terra.dev/graphql",
+                        hive: "https://hive.terrarebels.net/graphql",
                         shuttle: {
                             ethereum: "terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
                             bsc: "terra1g6llg3zed35nd3mh9zx6n64tfw3z67w2c48tn2"
