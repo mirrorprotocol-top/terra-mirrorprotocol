@@ -1293,7 +1293,7 @@
                     classic: {
                         name: "classic",
                         chainID: "columbus-5",
-                        lcd: "https://terra-classic-lcd.publicnode.com/",
+                        lcd: "https://lcd.terraclassic.community",
                         contract: "whitelist/columbus.json",
                         hive: "https://hive.terrarebels.net/graphql",
                         shuttle: {
